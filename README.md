@@ -1,6 +1,14 @@
 # Flash-SOL: Telegram Bot for Solana Token Trading
 
+[![Tests](https://img.shields.io/badge/tests-61%20passing-green?style=flat-square)](https://github.com/sk3neels/flash-sol/tree/main/tests)
+[![Language](https://img.shields.io/badge/language-TypeScript-blue?style=flat-square)](https://www.typescriptlang.org/)
+[![Solana](https://img.shields.io/badge/Solana-1.98.x-purple?style=flat-square)](https://solana.com/)
+[![Deployment](https://img.shields.io/badge/deployment-Fly.io-orange?style=flat-square)](https://fly.io/)
+
 ![Flash-SOL Logo](assets/FLASH.jpeg) 
+
+
+**DISCLAIMER** - this is the Partial Public Repo - the FULL CODEBASE is available to view on a private repo subject to further discussion.
 
 Flash-SOL is a recently deployed Minimum Viable Product (MVP) Telegram bot for trading Solana (SOL) tokens via Jupiter DEX. Built in TypeScript, it enables fast buys, sells, and portfolio management on Solana's high-performance blockchain. This portfolio project highlights my expertise in blockchain development and AI-assisted coding, serving as a scalable foundation for future Solana-based tools.
 
