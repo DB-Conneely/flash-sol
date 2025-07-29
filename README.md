@@ -43,14 +43,23 @@ This MVP was architected with AI tools (Grok v3/v4 and Gemini Pro) accelerating 
 ## Project Structure
 flash-sol/
 ├── src/          # Bot, Solana, utils, DB, entry
+
 ├── tests/        # Jest suite
+
 ├── .env          # Config
+
 ├── package.json  # Deps
+
 ├── tsconfig.json # TS config
+
 ├── jest.config.js# Jest
+
 ├── README.md     # Doc
+
 ├── fly.toml      # Fly
+
 ├── Dockerfile    # Docker
+
 └── nodemon.json  # Dev
 
 
